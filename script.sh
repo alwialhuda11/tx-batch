@@ -94,4 +94,4 @@ NODE_PATH=$(npm root -g):$(pwd)/node_modules node $temp_node_file
 # Membersihkan file sementara
 rm $temp_node_file
 
-print_color "1;34" "don't forget to follow my twitter @makanbitcoin"
+print_color "1;34" "Don't forget to follow my twitter @makanbitcoin"
